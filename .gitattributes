@@ -1,0 +1,19 @@
+# 人格内容与索引必须逐字节一致 —— 锁死 LF，不让 checkout 转换行尾。
+#
+# 为什么必须锁：`build-index.mjs` 把人格原文**内嵌**进 `packs/*.jsonl`，
+# 而 `index.json` 记的 sha256 / bytes 是按**当前字节**算的。
+# 一旦 checkout 把行尾转成 CRLF：
+#   · packs 里的内嵌文本变成 CRLF → 字节数变了 → 索引对不上
+#   · Linux CI（默认 LF）重算的结果又和 Windows 生成的packs 完全不同
+# 结果就是「本地 --check 过、CI 必红」。
+#
+# 之前 CI 红就是这么来的：Windows 上生成的 packs 内嵌了 CRLF，
+# Linux checkout 是 LF，两边永远对不上。
+#
+# `index.json` / `packs/*.jsonl` 标成 -text（不做行尾转换、也不当文本做 diff），
+# 保证「git 里存的字节」== 「工作区字节」== 「索引记录的字节」。
+* text=auto eol=lf
+
+*.json text eol=lf
+*.jsonl -text
+*.md text eol=lf
