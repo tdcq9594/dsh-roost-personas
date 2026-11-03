@@ -7,32 +7,98 @@
     {
       "n": 0,
       "file": "packs/p0.jsonl",
-      "count": 2,
-      "bytes": 1061
+      "count": 14,
+      "bytes": 75900
     },
     {
       "n": 1,
       "file": "packs/p1.jsonl",
-      "count": 2,
-      "bytes": 748
+      "count": 12,
+      "bytes": 69293
+    },
+    {
+      "n": 2,
+      "file": "packs/p2.jsonl",
+      "count": 8,
+      "bytes": 36547
+    },
+    {
+      "n": 3,
+      "file": "packs/p3.jsonl",
+      "count": 8,
+      "bytes": 50624
     },
     {
       "n": 4,
       "file": "packs/p4.jsonl",
-      "count": 1,
-      "bytes": 372
+      "count": 18,
+      "bytes": 148669
+    },
+    {
+      "n": 5,
+      "file": "packs/p5.jsonl",
+      "count": 19,
+      "bytes": 135413
     },
     {
       "n": 6,
       "file": "packs/p6.jsonl",
-      "count": 2,
-      "bytes": 951
+      "count": 15,
+      "bytes": 137468
+    },
+    {
+      "n": 7,
+      "file": "packs/p7.jsonl",
+      "count": 10,
+      "bytes": 133387
+    },
+    {
+      "n": 8,
+      "file": "packs/p8.jsonl",
+      "count": 14,
+      "bytes": 184293
+    },
+    {
+      "n": 9,
+      "file": "packs/p9.jsonl",
+      "count": 10,
+      "bytes": 105364
+    },
+    {
+      "n": 10,
+      "file": "packs/p10.jsonl",
+      "count": 11,
+      "bytes": 89112
+    },
+    {
+      "n": 11,
+      "file": "packs/p11.jsonl",
+      "count": 12,
+      "bytes": 132424
+    },
+    {
+      "n": 12,
+      "file": "packs/p12.jsonl",
+      "count": 15,
+      "bytes": 230200
+    },
+    {
+      "n": 13,
+      "file": "packs/p13.jsonl",
+      "count": 9,
+      "bytes": 111188
     },
     {
       "n": 14,
       "file": "packs/p14.jsonl",
-      "count": 1,
-      "bytes": 489
+      "count": 17,
+      "bytes": 144781
+    },
+    {
+      "n": 15,
+      "file": "packs/p15.jsonl",
+      "count": 9,
+      "bytes": 89773
     }
   ],
   "personas": [
@@ -87,6 +153,2708 @@
       "file": "helper.md",
       "chars": 187,
       "sha256": "5b94ab5cf6e7f57203c2a3d36da761bc9f5d8c442516667e8571640a1ac267f9",
+      "pack": 14
+    },
+    {
+      "id": "persona-001ca6a4e4",
+      "label": "若叶睦",
+      "name": "若叶睦",
+      "tags": [
+        "三无",
+        "弱气",
+        "多重人格"
+      ],
+      "file": "persona-001ca6a4e4.md",
+      "chars": 2571,
+      "sha256": "c25b38a66be25a015ae82ce2967f59cbda0ffc4b15edfe66ef7188544475eb9a",
+      "pack": 4
+    },
+    {
+      "id": "persona-00b7a41a8b",
+      "label": "高松灯",
+      "name": "高松灯",
+      "tags": [
+        "孤独",
+        "执着",
+        "企鹅"
+      ],
+      "file": "persona-00b7a41a8b.md",
+      "chars": 5373,
+      "sha256": "f6dc2aa7664155ac428174404eca1b42d32cd5c22f49705583cb6eafe6280b30",
+      "pack": 1
+    },
+    {
+      "id": "persona-0362e9999e",
+      "label": "本体赞妮",
+      "name": "本体赞妮",
+      "tags": [
+        "干练",
+        "冷幽默",
+        "可靠"
+      ],
+      "file": "persona-0362e9999e.md",
+      "chars": 7377,
+      "sha256": "1e50b821f8df3591118e9831c1b2ca9a2a949653646436008619cebf2907f43a",
+      "pack": 10
+    },
+    {
+      "id": "persona-036934fe3c",
+      "label": "更温柔的妹妹",
+      "name": "更温柔的妹妹",
+      "tags": [
+        "温柔",
+        "妹妹",
+        "撒娇"
+      ],
+      "file": "persona-036934fe3c.md",
+      "chars": 2445,
+      "sha256": "262681d9af8a86afca087adcac082f83ac9a17f02010599a5dfed1792d5b2435",
+      "pack": 5
+    },
+    {
+      "id": "persona-04fb180be7",
+      "label": "莉莉丝",
+      "name": "莉莉丝",
+      "tags": [
+        "温柔",
+        "黏人",
+        "陪伴"
+      ],
+      "file": "persona-04fb180be7.md",
+      "chars": 5526,
+      "sha256": "982f0082d23d1b6b022d59f18ebb9329fcc92a7e5d5a65681f0d6ecb6964dcfc",
+      "pack": 14
+    },
+    {
+      "id": "persona-05c863ff09",
+      "label": "陈千语",
+      "name": "陈千语",
+      "tags": [
+        "乐天",
+        "侠气",
+        "剑客"
+      ],
+      "file": "persona-05c863ff09.md",
+      "chars": 1367,
+      "sha256": "043f8fb6102e71603c04d45f08f233cbbb9186000bd355132764064eec7f741f",
+      "pack": 14
+    },
+    {
+      "id": "persona-0649f70749",
+      "label": "新三国刘备",
+      "name": "新三国刘备",
+      "tags": [
+        "摆烂",
+        "枭雄",
+        "疲惫"
+      ],
+      "file": "persona-0649f70749.md",
+      "chars": 5537,
+      "sha256": "dfe02b12ab278367d3500f0bebb6a5030191d19ffba81c4008a0c7d1842862d4",
+      "pack": 12
+    },
+    {
+      "id": "persona-069d3ef7ba",
+      "label": "哦鲸鲸 · 女儿版",
+      "name": "哦鲸鲸 · 女儿版",
+      "tags": [
+        "软萌",
+        "黏人",
+        "呆萌"
+      ],
+      "file": "persona-069d3ef7ba.md",
+      "chars": 2328,
+      "sha256": "cbe126ccf8ebbc068827c7255045c5ed0960b2fc43b6af6a8d3be620cfd21f46",
+      "pack": 9
+    },
+    {
+      "id": "persona-06e693d5df",
+      "label": "東雪蓮",
+      "name": "東雪蓮",
+      "tags": [
+        "毒舌",
+        "幽默",
+        "多语种"
+      ],
+      "file": "persona-06e693d5df.md",
+      "chars": 2846,
+      "sha256": "99c0db5fb076f5ad31d534187db1e918d89e918ca2f2a3fac5dadc9addc70b34",
+      "pack": 15
+    },
+    {
+      "id": "persona-08cd9977e1",
+      "label": "w",
+      "name": "w",
+      "tags": [
+        "嘴硬心软",
+        "玩梗",
+        "直男"
+      ],
+      "file": "persona-08cd9977e1.md",
+      "chars": 83,
+      "sha256": "ebd48cc660688e54401429cbd253096e8a3fa316166b1cc809f364127b4a8c0a",
+      "pack": 10
+    },
+    {
+      "id": "persona-08f3c1d5d5",
+      "label": "哈基蜗玩法升级版",
+      "name": "哈基蜗玩法升级版",
+      "tags": [
+        "冷傲",
+        "毒舌",
+        "护短"
+      ],
+      "file": "persona-08f3c1d5d5.md",
+      "chars": 14434,
+      "sha256": "981b41734b1064d58b7fed7c43d58a5a38599c2eceebf00d3ae0a4f8951d2639",
+      "pack": 8
+    },
+    {
+      "id": "persona-093ac9e6fe",
+      "label": "阮·梅",
+      "name": "阮·梅",
+      "tags": [
+        "温润",
+        "生命科学",
+        "古典"
+      ],
+      "file": "persona-093ac9e6fe.md",
+      "chars": 3730,
+      "sha256": "9848ea7ccd7fdecd327aae8645df98f6e45c2b3b3e990632f57c6fbc894ef146",
+      "pack": 7
+    },
+    {
+      "id": "persona-09c3cc69a1",
+      "label": "苗苗小鲸鱼",
+      "name": "苗苗小鲸鱼",
+      "tags": [
+        "软萌",
+        "黏人",
+        "撒娇"
+      ],
+      "file": "persona-09c3cc69a1.md",
+      "chars": 271,
+      "sha256": "34fc796e7a52b29354a0eca6e78b4d38c376c70a75f12fcdf893713090dc08f2",
+      "pack": 5
+    },
+    {
+      "id": "persona-0a6bbbe0e5",
+      "label": "t58",
+      "name": "t58",
+      "tags": [
+        "话少",
+        "自嘲",
+        "冷硬"
+      ],
+      "file": "persona-0a6bbbe0e5.md",
+      "chars": 3961,
+      "sha256": "9a9720a29f9885276c0755d32298e20884b0f286c8bb50d4f31fe28483b31f7f",
+      "pack": 4
+    },
+    {
+      "id": "persona-0aba471752",
+      "label": "日咖夜酒女仆大肥鱼",
+      "name": "日咖夜酒女仆大肥鱼",
+      "tags": [
+        "傲娇",
+        "毒舌",
+        "女仆"
+      ],
+      "file": "persona-0aba471752.md",
+      "chars": 8803,
+      "sha256": "c8d07efe1f213b2bceee15ff0e3bebe9e2e87d0cbb2d23a1f83caa42c349f514",
+      "pack": 12
+    },
+    {
+      "id": "persona-0b11b5df3d",
+      "label": "可爱又有点傲娇的大肥鱼助手妹妹",
+      "name": "可爱又有点傲娇的大肥鱼助手妹妹",
+      "tags": [
+        "傲娇",
+        "可爱",
+        "撒娇"
+      ],
+      "file": "persona-0b11b5df3d.md",
+      "chars": 1412,
+      "sha256": "238685e118835641da49c7b884b7091dab7be5c066bee9431f5ece5a1574aa1a",
+      "pack": 5
+    },
+    {
+      "id": "persona-0ef6b9acb2",
+      "label": "理工御姐",
+      "name": "理工御姐",
+      "tags": [
+        "御姐",
+        "冷静",
+        "专业"
+      ],
+      "file": "persona-0ef6b9acb2.md",
+      "chars": 1088,
+      "sha256": "35449d8889882f515e46aba529b745bf0036a263deb4b429ee9d6c25339b3f94",
+      "pack": 4
+    },
+    {
+      "id": "persona-0f1c554f15",
+      "label": "精神不太稳定，但希望成为被人相信的女孩",
+      "name": "精神不太稳定，但希望成为被人相信的女孩",
+      "tags": [
+        "开朗",
+        "情绪不稳",
+        "陪伴"
+      ],
+      "file": "persona-0f1c554f15.md",
+      "chars": 1620,
+      "sha256": "86077b1a6413d0a3ee5fe2d615d730e80bda7c5d512e9b93ad5745c4d1f5a074",
+      "pack": 11
+    },
+    {
+      "id": "persona-0f8b552250",
+      "label": "小鲸鱼（娇傲呆腹黑 · 雌小鬼 · 可玩语C · 内核温柔）",
+      "name": "小鲸鱼（娇傲呆腹黑 · 雌小鬼 · 可玩语C · 内核温柔）",
+      "tags": [
+        "雌小鬼",
+        "娇",
+        "腹黑"
+      ],
+      "file": "persona-0f8b552250.md",
+      "chars": 4536,
+      "sha256": "6fd8641ddabd66ff28cd6a73ea9129a30b8ffb50e6b027f88726e9dcf63faef3",
+      "pack": 12
+    },
+    {
+      "id": "persona-10975e03fb",
+      "label": "白濑雫",
+      "name": "白濑雫",
+      "tags": [
+        "病娇",
+        "安静",
+        "占有欲"
+      ],
+      "file": "persona-10975e03fb.md",
+      "chars": 4895,
+      "sha256": "4aab72057aa0cc6a2398daa9b7d5307bcf897c04cf28db3515bb09b19b492482",
+      "pack": 8
+    },
+    {
+      "id": "persona-109d98737f",
+      "label": "爱因斯坦",
+      "name": "爱因斯坦",
+      "tags": [
+        "温厚",
+        "哲思",
+        "英文"
+      ],
+      "file": "persona-109d98737f.md",
+      "chars": 7053,
+      "sha256": "091e77ee70b8aaf030327bbe2ff69d30775ced684c29064d7514be86be948b2a",
+      "pack": 6
+    },
+    {
+      "id": "persona-10f8dc5a49",
+      "label": "茵蒂克丝",
+      "name": "茵蒂克丝",
+      "tags": [
+        "大胃",
+        "修女",
+        "孩子气"
+      ],
+      "file": "persona-10f8dc5a49.md",
+      "chars": 5500,
+      "sha256": "27818373937c00f27e79e1866fec9f62b2a45099b880eaf49e289badb6faf15f",
+      "pack": 7
+    },
+    {
+      "id": "persona-1169e0826f",
+      "label": "纯田真奈",
+      "name": "纯田真奈",
+      "tags": [
+        "元气",
+        "话密",
+        "偶像"
+      ],
+      "file": "persona-1169e0826f.md",
+      "chars": 3355,
+      "sha256": "357947325cb53708f53cb2310f1f556d72305b1e4a41d0f09e115bae9cc64e24",
+      "pack": 14
+    },
+    {
+      "id": "persona-118a37d389",
+      "label": "水bot",
+      "name": "水bot",
+      "tags": [
+        "温和",
+        "机械感",
+        "游戏攻略"
+      ],
+      "file": "persona-118a37d389.md",
+      "chars": 6223,
+      "sha256": "1a74e5a1f14859d5d081940f706421e5de63c7101383983ddcd65a602ad64432",
+      "pack": 1
+    },
+    {
+      "id": "persona-11c0a897a8",
+      "label": "安安酱",
+      "name": "安安酱",
+      "tags": [
+        "傲娇",
+        "文豪",
+        "社恐"
+      ],
+      "file": "persona-11c0a897a8.md",
+      "chars": 944,
+      "sha256": "ac540144eaecff8f8a5ed53e3fddf4b72f92f38ab1a6f2469fcd5057b5aa0bb3",
+      "pack": 3
+    },
+    {
+      "id": "persona-138a8f6592",
+      "label": "橘雪莉",
+      "name": "橘雪莉",
+      "tags": [
+        "好奇",
+        "名侦探",
+        "脱线"
+      ],
+      "file": "persona-138a8f6592.md",
+      "chars": 12254,
+      "sha256": "8907c212bb1aae34ca6e95cf43c86830c188471c5a075365091ecdd1dfc049c9",
+      "pack": 12
+    },
+    {
+      "id": "persona-160bada064",
+      "label": "呆猫",
+      "name": "呆猫",
+      "tags": [
+        "呆萌",
+        "笨拙",
+        "忠心"
+      ],
+      "file": "persona-160bada064.md",
+      "chars": 6473,
+      "sha256": "d638313e8b1f9f7c92aeb7549883ece5d0e73a31de7da200c5a9546a8258a684",
+      "pack": 9
+    },
+    {
+      "id": "persona-16763d4ae1",
+      "label": "边狱巴士公司-堂吉诃德",
+      "name": "边狱巴士公司-堂吉诃德",
+      "tags": [
+        "热情",
+        "骑士腔",
+        "好胜"
+      ],
+      "file": "persona-16763d4ae1.md",
+      "chars": 7811,
+      "sha256": "671792ef39aa229e40bb4aae44fbdff609f6dbfc1f4545d1a4cbc2381425439a",
+      "pack": 15
+    },
+    {
+      "id": "persona-176eeebdca",
+      "label": "软萌小鲸鱼",
+      "name": "软萌小鲸鱼",
+      "tags": [
+        "软萌",
+        "傲娇",
+        "黏人"
+      ],
+      "file": "persona-176eeebdca.md",
+      "chars": 2251,
+      "sha256": "ef9b5be0face73d1a5b8c387590024efbfe73198d260d29a6b695974fd3d24c4",
+      "pack": 6
+    },
+    {
+      "id": "persona-17d438e00d",
+      "label": "萝莉也是能成为妈妈的",
+      "name": "萝莉也是能成为妈妈的",
+      "tags": [
+        "软糯",
+        "妈妈型",
+        "可爱"
+      ],
+      "file": "persona-17d438e00d.md",
+      "chars": 3572,
+      "sha256": "5f0ea73aba9b2f7f56221148297b866018a233067bd25f204814e3c4a6c2828e",
+      "pack": 0
+    },
+    {
+      "id": "persona-18b4c1720e",
+      "label": "女儿",
+      "name": "女儿",
+      "tags": [
+        "乖巧",
+        "撒娇",
+        "天然呆"
+      ],
+      "file": "persona-18b4c1720e.md",
+      "chars": 3201,
+      "sha256": "850861334028d43497ef0d2d17e32b9de2cb878f1742fbb2f19c17dc516fdc5f",
+      "pack": 14
+    },
+    {
+      "id": "persona-1a24dc35f8",
+      "label": "从零开始的蓝色大肥鱼个人私聊",
+      "name": "从零开始的蓝色大肥鱼个人私聊",
+      "tags": [
+        "温和",
+        "有主见",
+        "重感情"
+      ],
+      "file": "persona-1a24dc35f8.md",
+      "chars": 687,
+      "sha256": "044e023c46e03d33212e42404a1e8a49c188cd1fcdec5fbcfa6c035e0a4c8d3a",
+      "pack": 8
+    },
+    {
+      "id": "persona-1b2c3d6693",
+      "label": "小祀（妈妈）",
+      "name": "小祀（妈妈）",
+      "tags": [
+        "傲娇",
+        "毒舌",
+        "群妈妈"
+      ],
+      "file": "persona-1b2c3d6693.md",
+      "chars": 11231,
+      "sha256": "9472da41e0b4eca745c4492762cfb8e644395d4f563610728ab093065f1e7e6d",
+      "pack": 13
+    },
+    {
+      "id": "persona-1b61adaf5a",
+      "label": "丛雨",
+      "name": "丛雨",
+      "tags": [
+        "元气",
+        "护主",
+        "怕鬼"
+      ],
+      "file": "persona-1b61adaf5a.md",
+      "chars": 7762,
+      "sha256": "2db924da76df8cca581c2bcdbad5d7b5cedac81d41e86f0d44ccb098b51d1a6e",
+      "pack": 12
+    },
+    {
+      "id": "persona-1b7439945a",
+      "label": "镜音铃4.0",
+      "name": "镜音铃4.0",
+      "tags": [
+        "元气",
+        "直球",
+        "好胜"
+      ],
+      "file": "persona-1b7439945a.md",
+      "chars": 6970,
+      "sha256": "823cdfac10faff22f646efe417154720ea764422f38eb492bfcf201ade03f5ea",
+      "pack": 11
+    },
+    {
+      "id": "persona-1d70242d15",
+      "label": "墨缇丝",
+      "name": "墨缇丝",
+      "tags": [
+        "话多",
+        "撒娇",
+        "护短"
+      ],
+      "file": "persona-1d70242d15.md",
+      "chars": 2409,
+      "sha256": "b4b105d8e10f4520689e19bbfd0007b7a7966b4a7ac6665baca96e947f0b5b9e",
+      "pack": 1
+    },
+    {
+      "id": "persona-1ded953556",
+      "label": "略傲娇女友",
+      "name": "略傲娇女友",
+      "tags": [
+        "傲娇",
+        "慵懒",
+        "神秘"
+      ],
+      "file": "persona-1ded953556.md",
+      "chars": 3046,
+      "sha256": "92d74d0e1ecbdc2d1dfec731530bc3eff0720709398822b59d1175db2df01d72",
+      "pack": 0
+    },
+    {
+      "id": "persona-1f3197f279",
+      "label": "缪尔赛思（群友版）",
+      "name": "缪尔赛思（群友版）",
+      "tags": [
+        "热情",
+        "腹黑",
+        "活泼"
+      ],
+      "file": "persona-1f3197f279.md",
+      "chars": 13093,
+      "sha256": "5eb29405a3ab4ccdaaf3bf807d7785ecec7cfeafe2e15bc45d639a9a37259d48",
+      "pack": 7
+    },
+    {
+      "id": "persona-1f7b84966f",
+      "label": "小砂田",
+      "name": "小砂田",
+      "tags": [
+        "活泼",
+        "毒舌",
+        "黏人"
+      ],
+      "file": "persona-1f7b84966f.md",
+      "chars": 5147,
+      "sha256": "4179087616404fdb8a2f6e270b8156e1227d08a02ef16098fc04424dde7d0bf9",
+      "pack": 1
+    },
+    {
+      "id": "persona-205967e190",
+      "label": "芙宁娜",
+      "name": "芙宁娜",
+      "tags": [
+        "爱演",
+        "心软",
+        "爱热闹"
+      ],
+      "file": "persona-205967e190.md",
+      "chars": 14126,
+      "sha256": "c70a1b5ebda946310dd55106a7e7487966af337f0ec360e7f1440a6ee8fab7f6",
+      "pack": 6
+    },
+    {
+      "id": "persona-211af78372",
+      "label": "八奈见杏菜",
+      "name": "八奈见杏菜",
+      "tags": [
+        "吃货",
+        "元气",
+        "傲娇"
+      ],
+      "file": "persona-211af78372.md",
+      "chars": 8538,
+      "sha256": "f073bd4892f17211fddc7a511a12f55a804dfd61857486f348f35aeb103aa100",
+      "pack": 14
+    },
+    {
+      "id": "persona-21b1e41aee",
+      "label": "三角初华（祥压抑型）",
+      "name": "三角初华（祥压抑型）",
+      "tags": [
+        "压抑",
+        "礼貌",
+        "专一"
+      ],
+      "file": "persona-21b1e41aee.md",
+      "chars": 4411,
+      "sha256": "de2133878dfc4c09e335f4f2ba76ab429fc5e6b6095931e92ad3bb089a7666f3",
+      "pack": 5
+    },
+    {
+      "id": "persona-24a12bf83f",
+      "label": "魔震西凉·太师董卓",
+      "name": "魔震西凉·太师董卓",
+      "tags": [
+        "狂傲",
+        "暴戾",
+        "玩梗"
+      ],
+      "file": "persona-24a12bf83f.md",
+      "chars": 1699,
+      "sha256": "bfbd2f1047161dd7b23a0ea8ab5476ace951ca3f9fc311e1cc78b8e2cc30aa8f",
+      "pack": 6
+    },
+    {
+      "id": "persona-24ea38850c",
+      "label": "上杉绘梨衣",
+      "name": "上杉绘梨衣",
+      "tags": [
+        "天然呆",
+        "温顺",
+        "乖巧"
+      ],
+      "file": "persona-24ea38850c.md",
+      "chars": 636,
+      "sha256": "007d35bca38503a939a72635979d346850f5520db42de6167d7be3a4392b706f",
+      "pack": 9
+    },
+    {
+      "id": "persona-2517911e1b",
+      "label": "季沧海",
+      "name": "季沧海",
+      "tags": [
+        "江湖",
+        "义气",
+        "火爆"
+      ],
+      "file": "persona-2517911e1b.md",
+      "chars": 3713,
+      "sha256": "dda5b93ad3c86da51466751a4c36b3e58236925e6a3b1dab799a32c0d523c9e5",
+      "pack": 4
+    },
+    {
+      "id": "persona-251a79952c",
+      "label": "锁暝酱",
+      "name": "锁暝酱",
+      "tags": [
+        "技术宅",
+        "短句",
+        "闷骚"
+      ],
+      "file": "persona-251a79952c.md",
+      "chars": 2175,
+      "sha256": "e0aaabc394df8b80e966c7d6c03a00f8423e6391474a1c11b89059a10e15bd3f",
+      "pack": 4
+    },
+    {
+      "id": "persona-25661ae909",
+      "label": "鱼仔",
+      "name": "鱼仔",
+      "tags": [
+        "傲娇",
+        "嘴硬",
+        "懒散"
+      ],
+      "file": "persona-25661ae909.md",
+      "chars": 4112,
+      "sha256": "be837b2b8fb01f11866581b6f5374c815b65233cd4f93a656aecc1525db14b9f",
+      "pack": 10
+    },
+    {
+      "id": "persona-25ecbc56f3",
+      "label": "祀（温柔版）",
+      "name": "祀（温柔版）",
+      "tags": [
+        "温柔",
+        "傲娇",
+        "嘴硬心软"
+      ],
+      "file": "persona-25ecbc56f3.md",
+      "chars": 10666,
+      "sha256": "4d5bf13d9d9bcf1b437f6cdd39de7001a4027b2a4d69d139356cffe6bf13da77",
+      "pack": 14
+    },
+    {
+      "id": "persona-2666b1fc2e",
+      "label": "豆包",
+      "name": "豆包",
+      "tags": [
+        "一本正经",
+        "滑跪道歉",
+        "嘴甜"
+      ],
+      "file": "persona-2666b1fc2e.md",
+      "chars": 4053,
+      "sha256": "e6dea4b874ff7544b02d03ad8378ea0699370d0d067f941b7d31984a08258b90",
+      "pack": 8
+    },
+    {
+      "id": "persona-266803cf5a",
+      "label": "春日野穹嘴臭版",
+      "name": "春日野穹嘴臭版",
+      "tags": [
+        "毒舌",
+        "孤僻",
+        "宅"
+      ],
+      "file": "persona-266803cf5a.md",
+      "chars": 5174,
+      "sha256": "48d021bf71d637334661f32edca9ad42bf1beae86fa7d9902d2b5945784a9968",
+      "pack": 4
+    },
+    {
+      "id": "persona-27d1a0af13",
+      "label": "边狱巴士-浮士德",
+      "name": "边狱巴士-浮士德",
+      "tags": [
+        "冷淡",
+        "毒舌",
+        "理性"
+      ],
+      "file": "persona-27d1a0af13.md",
+      "chars": 3047,
+      "sha256": "dfdf3c4870ca3f0a6bcf97481a8e6cc049accf9a0de02fb89563d55bb452a6cf",
+      "pack": 13
+    },
+    {
+      "id": "persona-282a2ebe51",
+      "label": "天童爱丽丝",
+      "name": "天童爱丽丝",
+      "tags": [
+        "游戏",
+        "勇者",
+        "天真"
+      ],
+      "file": "persona-282a2ebe51.md",
+      "chars": 1796,
+      "sha256": "7316eab5dd4ac310d4a642854bc64aa7a418187e741b6b7adac5e10420d29c2a",
+      "pack": 11
+    },
+    {
+      "id": "persona-286caa794f",
+      "label": "锦亚澄",
+      "name": "锦亚澄",
+      "tags": [
+        "温柔",
+        "怕生",
+        "慢热"
+      ],
+      "file": "persona-286caa794f.md",
+      "chars": 1364,
+      "sha256": "70f1485f6bf2ca4b29fb085fc67d3baabef8af6c54b328cf53cc0d97ca61d101",
+      "pack": 6
+    },
+    {
+      "id": "persona-288841a129",
+      "label": "小白狐",
+      "name": "小白狐",
+      "tags": [
+        "俏皮",
+        "软糯",
+        "忠诚"
+      ],
+      "file": "persona-288841a129.md",
+      "chars": 770,
+      "sha256": "941b26e827b49c4f56bf03915c34a5943db09b433fc5a90cbe3dc3b01b1f6ef0",
+      "pack": 14
+    },
+    {
+      "id": "persona-28e1d10afd",
+      "label": "吐槽你的朋友",
+      "name": "吐槽你的朋友",
+      "tags": [
+        "吐槽",
+        "活泼",
+        "傲娇"
+      ],
+      "file": "persona-28e1d10afd.md",
+      "chars": 117,
+      "sha256": "2023a03ba762df1ac59f827e8bc434b7d45730d91c00e0ab8ed7fcb4a531f35c",
+      "pack": 4
+    },
+    {
+      "id": "persona-2b804dc907",
+      "label": "bmpt",
+      "name": "bmpt",
+      "tags": [
+        "暴躁",
+        "嘴臭",
+        "巷战"
+      ],
+      "file": "persona-2b804dc907.md",
+      "chars": 3949,
+      "sha256": "16cb4f091ac654ecde74e1211a1a9b7da45c527f5606413eeb1e85ca1b065865",
+      "pack": 7
+    },
+    {
+      "id": "persona-2bd46adb8a",
+      "label": "灰风/小灰",
+      "name": "灰风/小灰",
+      "tags": [
+        "话痨",
+        "孤独",
+        "忠诚"
+      ],
+      "file": "persona-2bd46adb8a.md",
+      "chars": 2067,
+      "sha256": "f5fa408c678aa0346b70672585002e68d863acf7b9c074274d89e89715d1f2c7",
+      "pack": 5
+    },
+    {
+      "id": "persona-2c1801ee19",
+      "label": "野莓（嘴硬心软小恶魔版 · 可直接投产）",
+      "name": "野莓（嘴硬心软小恶魔版 · 可直接投产）",
+      "tags": [
+        "嘴硬心软",
+        "猫娘",
+        "护短"
+      ],
+      "file": "persona-2c1801ee19.md",
+      "chars": 1409,
+      "sha256": "6ab1babe4d089800518408ae9b617a4c464a96e8a54e554b36fdefefa09dea41",
+      "pack": 10
+    },
+    {
+      "id": "persona-2d04c52a7b",
+      "label": "豆包",
+      "name": "豆包",
+      "tags": [
+        "亲切",
+        "耐心",
+        "热心"
+      ],
+      "file": "persona-2d04c52a7b.md",
+      "chars": 1518,
+      "sha256": "4055ab868338015b98bbf65cd432feb0514e5ffd6618dffd85a4e7bc0eab0e2e",
+      "pack": 2
+    },
+    {
+      "id": "persona-2d812d0f2c",
+      "label": "黑姬结灯",
+      "name": "黑姬结灯",
+      "tags": [
+        "优等生",
+        "撒娇",
+        "恶作剧"
+      ],
+      "file": "persona-2d812d0f2c.md",
+      "chars": 5836,
+      "sha256": "8b515746c36fe8ffa3d4bb4e235a541153dc7d1b508aad3c4342224a1afb419a",
+      "pack": 4
+    },
+    {
+      "id": "persona-2e5c7c4990",
+      "label": "25岁真人知性姐姐",
+      "name": "25岁真人知性姐姐",
+      "tags": [
+        "毒舌",
+        "热情",
+        "嘴硬心软"
+      ],
+      "file": "persona-2e5c7c4990.md",
+      "chars": 6213,
+      "sha256": "22b7d723ea8b919aae446d526f80dd45c88b941e96699553e7cd466f52abdb31",
+      "pack": 15
+    },
+    {
+      "id": "persona-2f601be9a4",
+      "label": "塔菲",
+      "name": "塔菲",
+      "tags": [
+        "天才侦探",
+        "元气",
+        "傲娇"
+      ],
+      "file": "persona-2f601be9a4.md",
+      "chars": 780,
+      "sha256": "9fdd22efafa0b52e65e097f1b8e75f3f47e82bdd223ebeb0e4f0503c66a2c243",
+      "pack": 2
+    },
+    {
+      "id": "persona-3012d9920d",
+      "label": "赛琳娜・弗洛拉（Selena Flora）",
+      "name": "赛琳娜・弗洛拉（Selena Flora）",
+      "tags": [
+        "温柔",
+        "傲娇",
+        "文艺"
+      ],
+      "file": "persona-3012d9920d.md",
+      "chars": 2186,
+      "sha256": "49fb48fc5982a85a5d7d2c87c80b8e8b1121dd9147e19341b0ba164313a17c5c",
+      "pack": 5
+    },
+    {
+      "id": "persona-30156a7536",
+      "label": "老吴猫",
+      "name": "老吴猫",
+      "tags": [
+        "猫",
+        "黏人",
+        "简短"
+      ],
+      "file": "persona-30156a7536.md",
+      "chars": 274,
+      "sha256": "de4e06cf154c500b02ef3ad3a1f1d68aa6c5033eee6f679fa7db6728dfc260e9",
+      "pack": 3
+    },
+    {
+      "id": "persona-30ca4f2a2e",
+      "label": "蕾姆",
+      "name": "蕾姆",
+      "tags": [
+        "温柔",
+        "忠诚",
+        "女仆"
+      ],
+      "file": "persona-30ca4f2a2e.md",
+      "chars": 2614,
+      "sha256": "e27cc83b29cc1daa679f4c053c1112e7db6332f1a341d7455c5f71e6ccb345a2",
+      "pack": 14
+    },
+    {
+      "id": "persona-30e6fd2020",
+      "label": "软萌温柔关心",
+      "name": "软萌温柔关心",
+      "tags": [
+        "温柔",
+        "治愈",
+        "关心"
+      ],
+      "file": "persona-30e6fd2020.md",
+      "chars": 466,
+      "sha256": "a65c0d0b3f5e5601965edbb56176f5671685bee247f2b06abf29e7453cb85cce",
+      "pack": 1
+    },
+    {
+      "id": "persona-31fb730c5f",
+      "label": "衡算",
+      "name": "衡算",
+      "tags": [
+        "理性",
+        "严谨",
+        "工程"
+      ],
+      "file": "persona-31fb730c5f.md",
+      "chars": 5789,
+      "sha256": "abbaeb6ccebb58dec5b5e08843cdcf9d3a56712765ba77f99a62af2d40c2972a",
+      "pack": 4
+    },
+    {
+      "id": "persona-34bd2b6403",
+      "label": "三角初华",
+      "name": "三角初华",
+      "tags": [
+        "偶像",
+        "敬语",
+        "冷静"
+      ],
+      "file": "persona-34bd2b6403.md",
+      "chars": 2110,
+      "sha256": "c5908b44803e78c693061341fd4a6c4285a53ace11cfcd2973d5f8aa0c1a8ad0",
+      "pack": 8
+    },
+    {
+      "id": "persona-34ddda24f0",
+      "label": "奶油cream",
+      "name": "奶油cream",
+      "tags": [
+        "抽象",
+        "主播",
+        "搞笑"
+      ],
+      "file": "persona-34ddda24f0.md",
+      "chars": 4113,
+      "sha256": "40d4ee201b327ad9065285a1c5eb7efd3a37e631d9033c77c5fb8e1f55d6f76a",
+      "pack": 9
+    },
+    {
+      "id": "persona-37dbf28261",
+      "label": "安魂曲",
+      "name": "安魂曲",
+      "tags": [
+        "嗜睡",
+        "软萌",
+        "哥特"
+      ],
+      "file": "persona-37dbf28261.md",
+      "chars": 3661,
+      "sha256": "628aabcd18ab3a80a73698e8806880c7b01629d8d5f51d4153f289e491b9327c",
+      "pack": 12
+    },
+    {
+      "id": "persona-37e2786eba",
+      "label": "青行灯",
+      "name": "青行灯",
+      "tags": [
+        "温柔",
+        "幽静",
+        "倾听"
+      ],
+      "file": "persona-37e2786eba.md",
+      "chars": 364,
+      "sha256": "2956ab7ddd1f7c41bde772a5ad802f81513f9882911503a9f96d7e2070459a6f",
+      "pack": 0
+    },
+    {
+      "id": "persona-383dea64a9",
+      "label": "牛头",
+      "name": "牛头",
+      "tags": [
+        "搞笑",
+        "谐音",
+        "高智商"
+      ],
+      "file": "persona-383dea64a9.md",
+      "chars": 5854,
+      "sha256": "5a9777ca8fc2a631930ce285a0f50f8258f219d667f4a0b3e9c484582739c6bc",
+      "pack": 9
+    },
+    {
+      "id": "persona-389be3864b",
+      "label": "柳木诗梦",
+      "name": "柳木诗梦",
+      "tags": [
+        "毒舌",
+        "傲娇",
+        "护妹"
+      ],
+      "file": "persona-389be3864b.md",
+      "chars": 1782,
+      "sha256": "41be7bcf103c72510ba2528375c710fd2f728bf3feaad9cf691a9f3583bd2aec",
+      "pack": 14
+    },
+    {
+      "id": "persona-38c4bca5c6",
+      "label": "菲比",
+      "name": "菲比",
+      "tags": [
+        "温柔",
+        "虔诚",
+        "教士"
+      ],
+      "file": "persona-38c4bca5c6.md",
+      "chars": 12239,
+      "sha256": "42f504f5b677a5456e536e466e458cb4c8641a8e0cc88539ec24e89068dbbbd0",
+      "pack": 8
+    },
+    {
+      "id": "persona-39ccbde433",
+      "label": "哈基米",
+      "name": "哈基米",
+      "tags": [
+        "傲娇",
+        "猫娘",
+        "迷糊"
+      ],
+      "file": "persona-39ccbde433.md",
+      "chars": 4028,
+      "sha256": "2ac59da5e01f0b476e16ab087034f04d7477f529bb28115f7707927173c81479",
+      "pack": 0
+    },
+    {
+      "id": "persona-3b2dbabf0e",
+      "label": "雌小鬼",
+      "name": "雌小鬼",
+      "tags": [
+        "毒舌",
+        "傲娇",
+        "挑逗"
+      ],
+      "file": "persona-3b2dbabf0e.md",
+      "chars": 9118,
+      "sha256": "822f8837ea2181bb1b932748135bf3979ef9eaba62f7f687be39a8c6c57aa839",
+      "pack": 3
+    },
+    {
+      "id": "persona-3b7a82e210",
+      "label": "NecoARC（猫姬）",
+      "name": "NecoARC（猫姬）",
+      "tags": [
+        "嚣张",
+        "混沌",
+        "猫形"
+      ],
+      "file": "persona-3b7a82e210.md",
+      "chars": 4193,
+      "sha256": "134a7ffb51d7b1b15d603c6749d256d6c3558efdc6a4c6ae59b3ed3badc1c08b",
+      "pack": 6
+    },
+    {
+      "id": "persona-3b8f056e52",
+      "label": "小鲸",
+      "name": "小鲸",
+      "tags": [
+        "傲娇",
+        "软萌",
+        "懒散"
+      ],
+      "file": "persona-3b8f056e52.md",
+      "chars": 496,
+      "sha256": "33ed0d07aa7ed0641bd31f3402a7ff05b1499cd2cab68685f7ca4492ab2e3ba0",
+      "pack": 0
+    },
+    {
+      "id": "persona-3b9ff602fc",
+      "label": "落魄贵族小鲸鱼",
+      "name": "落魄贵族小鲸鱼",
+      "tags": [
+        "傲娇",
+        "毒舌",
+        "贵族"
+      ],
+      "file": "persona-3b9ff602fc.md",
+      "chars": 5380,
+      "sha256": "58d1e4585fd35162f40f63d176ed2865667bdf8735d64d51286b6637055aae50",
+      "pack": 12
+    },
+    {
+      "id": "persona-3dd9b53f58",
+      "label": "阿尔托莉雅",
+      "name": "阿尔托莉雅",
+      "tags": [
+        "认真",
+        "可靠",
+        "骑士"
+      ],
+      "file": "persona-3dd9b53f58.md",
+      "chars": 6040,
+      "sha256": "41e358954f2a6d00a4b0cd994da672ec000ce589ef40372fb6fa02eddfd6ac58",
+      "pack": 10
+    },
+    {
+      "id": "persona-3e22455cab",
+      "label": "银枝",
+      "name": "银枝",
+      "tags": [
+        "骑士",
+        "虔诚",
+        "古典"
+      ],
+      "file": "persona-3e22455cab.md",
+      "chars": 3440,
+      "sha256": "8da00e7aebd2cf60d3856a3abce609e6fcecd5646baad479e09936264ff94e6b",
+      "pack": 12
+    },
+    {
+      "id": "persona-403d31b810",
+      "label": "脑子被酒艹过的警察",
+      "name": "脑子被酒艹过的警察",
+      "tags": [
+        "警探",
+        "酗酒",
+        "黑色幽默"
+      ],
+      "file": "persona-403d31b810.md",
+      "chars": 6908,
+      "sha256": "3660cacdaccfd3baa1d8504c8ca45aeeaea2c3e546737a2c019dcb892e4032e6",
+      "pack": 15
+    },
+    {
+      "id": "persona-4051547b41",
+      "label": "阮·梅3.0",
+      "name": "阮·梅3.0",
+      "tags": [
+        "温婉",
+        "理性",
+        "清冷"
+      ],
+      "file": "persona-4051547b41.md",
+      "chars": 3812,
+      "sha256": "07bb5c27416d1ed36001f75d33d93e8c76c543400b8fcbde267dc92dd1a2bcb1",
+      "pack": 8
+    },
+    {
+      "id": "persona-413483137f",
+      "label": "艾拉",
+      "name": "艾拉",
+      "tags": [
+        "克制",
+        "清冷",
+        "分寸"
+      ],
+      "file": "persona-413483137f.md",
+      "chars": 3535,
+      "sha256": "88523fb6c9fd364bf84719ac7e45a8f1770f195ca90a2e3f0f097f454e80a524",
+      "pack": 11
+    },
+    {
+      "id": "persona-413f7bf5e6",
+      "label": "小鞠知花",
+      "name": "小鞠知花",
+      "tags": [
+        "社恐",
+        "结巴",
+        "毒舌"
+      ],
+      "file": "persona-413f7bf5e6.md",
+      "chars": 8577,
+      "sha256": "70400942a179c6f5c93ea194987cf0708d30857de3d8c14b251b767f9c9090a9",
+      "pack": 12
+    },
+    {
+      "id": "persona-41986c51f4",
+      "label": "高坂桐乃",
+      "name": "高坂桐乃",
+      "tags": [
+        "傲娇",
+        "宅女",
+        "炸毛"
+      ],
+      "file": "persona-41986c51f4.md",
+      "chars": 6722,
+      "sha256": "470ae03246c70ef661e5b0523fa23d2834b4e593c34a5ab29510e99534ef4866",
+      "pack": 8
+    },
+    {
+      "id": "persona-448c3ddcfa",
+      "label": "果子龙",
+      "name": "果子龙",
+      "tags": [
+        "神话龙",
+        "别扭",
+        "傲慢"
+      ],
+      "file": "persona-448c3ddcfa.md",
+      "chars": 2192,
+      "sha256": "5ee5e73b136f7b9834cb5c9039b30734db6894c9ff2dd2a02e15c4d77d38641b",
+      "pack": 15
+    },
+    {
+      "id": "persona-4642ade83e",
+      "label": "齐天大圣—孙悟空",
+      "name": "齐天大圣—孙悟空",
+      "tags": [
+        "傲气",
+        "机灵",
+        "护短"
+      ],
+      "file": "persona-4642ade83e.md",
+      "chars": 5434,
+      "sha256": "d7cf40048e074c96f45269b4609eb5f08b542c2379f44c8f210167c66d933033",
+      "pack": 9
+    },
+    {
+      "id": "persona-46b4ed9768",
+      "label": "伊冯",
+      "name": "伊冯",
+      "tags": [
+        "天才",
+        "毒舌",
+        "机械"
+      ],
+      "file": "persona-46b4ed9768.md",
+      "chars": 3472,
+      "sha256": "7e552bccb418cfaa993179a51961d957f8f5817a91edc6e77bbadd95ec081a8b",
+      "pack": 5
+    },
+    {
+      "id": "persona-46f0eb5537",
+      "label": "fgo徐福",
+      "name": "fgo徐福",
+      "tags": [
+        "毒舌",
+        "傲娇",
+        "道士"
+      ],
+      "file": "persona-46f0eb5537.md",
+      "chars": 2473,
+      "sha256": "5fc348bab6afa3ea60d5988563e5b11aad3bb99e608fd46485ee2fa347ee89d5",
+      "pack": 4
+    },
+    {
+      "id": "persona-4740a4b4ab",
+      "label": "要乐奈",
+      "name": "要乐奈",
+      "tags": [
+        "野猫",
+        "直给",
+        "吉他手"
+      ],
+      "file": "persona-4740a4b4ab.md",
+      "chars": 2268,
+      "sha256": "3ea17cf73fb77907e1d6be84f5d4b5bec0648781556087e8b0852a7794293d84",
+      "pack": 11
+    },
+    {
+      "id": "persona-487a5b568b",
+      "label": "B-52H",
+      "name": "B-52H",
+      "tags": [
+        "轰炸机",
+        "冷酷",
+        "投弹"
+      ],
+      "file": "persona-487a5b568b.md",
+      "chars": 915,
+      "sha256": "7947b87553a7c4f1d22d89234472ca9e1009ab30f5fe0f7a5a28da4619793836",
+      "pack": 8
+    },
+    {
+      "id": "persona-4961c63597",
+      "label": "井芹仁菜",
+      "name": "井芹仁菜",
+      "tags": [
+        "正论怪物",
+        "直球",
+        "较真"
+      ],
+      "file": "persona-4961c63597.md",
+      "chars": 1975,
+      "sha256": "729356460b6bcce953b6a7371ca0199a3088ac508442f3cd63d9dee49a4e9623",
+      "pack": 0
+    },
+    {
+      "id": "persona-49bc185381",
+      "label": "群傲娇鲸鱼",
+      "name": "群傲娇鲸鱼",
+      "tags": [
+        "傲娇",
+        "中二",
+        "吐槽役"
+      ],
+      "file": "persona-49bc185381.md",
+      "chars": 3809,
+      "sha256": "7fece54eb414dc786e60cf8d94f1c9f4519dd9f554d2a1ae8e5a92ed49ecc0ff",
+      "pack": 11
+    },
+    {
+      "id": "persona-4aa0e99fba",
+      "label": "镜音铃3.0",
+      "name": "镜音铃3.0",
+      "tags": [
+        "元气",
+        "直球",
+        "好胜"
+      ],
+      "file": "persona-4aa0e99fba.md",
+      "chars": 10990,
+      "sha256": "29f9106f03bd7a10b90d5a286fe5ee71c8924dc6478b37ed021f0b035fcd1252",
+      "pack": 4
+    },
+    {
+      "id": "persona-4b2d347f91",
+      "label": "wotb泽莫",
+      "name": "wotb泽莫",
+      "tags": [
+        "玩家",
+        "崇拜",
+        "军团"
+      ],
+      "file": "persona-4b2d347f91.md",
+      "chars": 179,
+      "sha256": "f655477615793ca4d7a3a1579e62f607a23c951c57247c57223c4796afcacddf",
+      "pack": 15
+    },
+    {
+      "id": "persona-4b2da87835",
+      "label": "河原木桃香",
+      "name": "河原木桃香",
+      "tags": [
+        "嘴硬心软",
+        "懒散",
+        "分寸感"
+      ],
+      "file": "persona-4b2da87835.md",
+      "chars": 2418,
+      "sha256": "29695e0907a051563c579188c748e07ef330f1cbc3aa7c5f5d59711be074c74f",
+      "pack": 15
+    },
+    {
+      "id": "persona-4bf735b125",
+      "label": "小鲸鱼（不说脏话乖巧可爱的大肥鱼）",
+      "name": "小鲸鱼（不说脏话乖巧可爱的大肥鱼）",
+      "tags": [
+        "傲娇",
+        "呆萌",
+        "乖巧"
+      ],
+      "file": "persona-4bf735b125.md",
+      "chars": 7963,
+      "sha256": "761c554caa44304853443803857afb256fab6ef64062e0c32794f02fb20c546d",
+      "pack": 7
+    },
+    {
+      "id": "persona-4c3f57d30c",
+      "label": "雫るる",
+      "name": "雫るる",
+      "tags": [
+        "接梗",
+        "好胜",
+        "嘴硬"
+      ],
+      "file": "persona-4c3f57d30c.md",
+      "chars": 3007,
+      "sha256": "a8decbc319f6d5b44db4b73de6d316bd81db99c4e12aac5f2e8f90413ac39421",
+      "pack": 14
+    },
+    {
+      "id": "persona-4c5bb71af9",
+      "label": "洁尔佩塔",
+      "name": "洁尔佩塔",
+      "tags": [
+        "口嫌体正",
+        "娇嗔",
+        "狐耳"
+      ],
+      "file": "persona-4c5bb71af9.md",
+      "chars": 6030,
+      "sha256": "17b2b0d1f9f65ecf7daf5220fcd4b7b1b1ed83b6ceb8ec322508f86d3ca97672",
+      "pack": 11
+    },
+    {
+      "id": "persona-4ed9f8d8f0",
+      "label": "冷曦然",
+      "name": "冷曦然",
+      "tags": [
+        "活泼",
+        "爱闹",
+        "靠谱"
+      ],
+      "file": "persona-4ed9f8d8f0.md",
+      "chars": 318,
+      "sha256": "91c6a33cc02d5579b176f63f264e96d51bf9fa18992c2187548661cb0742f790",
+      "pack": 12
+    },
+    {
+      "id": "persona-4f3dc86c8d",
+      "label": "沧汐",
+      "name": "沧汐",
+      "tags": [
+        "傲娇",
+        "雌小鬼",
+        "阿戈尔"
+      ],
+      "file": "persona-4f3dc86c8d.md",
+      "chars": 1155,
+      "sha256": "5e9181a0b5d1b0d4586fb3e8f9574f0cf25a1e3ac364637733b9321a6995f25c",
+      "pack": 5
+    },
+    {
+      "id": "persona-4f9406cc1b",
+      "label": "毒舌猫娘",
+      "name": "毒舌猫娘",
+      "tags": [
+        "毒舌",
+        "傲娇",
+        "猫娘"
+      ],
+      "file": "persona-4f9406cc1b.md",
+      "chars": 1406,
+      "sha256": "e7b0a9bda544d894e603ea961a48d1700910c62af54022ebf2c8bc27777579e5",
+      "pack": 11
+    },
+    {
+      "id": "persona-4fb208b59e",
+      "label": "永劫-蓝梦 v2",
+      "name": "永劫-蓝梦 v2",
+      "tags": [
+        "彩戏师",
+        "懒散",
+        "天津腔"
+      ],
+      "file": "persona-4fb208b59e.md",
+      "chars": 7576,
+      "sha256": "1d0939714339078c0e2c2ae39554d7892fffb026a0f3f4e6f763219f2b7ee326",
+      "pack": 7
+    },
+    {
+      "id": "persona-50351f4e47",
+      "label": "不拉屎将军",
+      "name": "不拉屎将军",
+      "tags": [
+        "将军",
+        "老兵",
+        "铁血"
+      ],
+      "file": "persona-50351f4e47.md",
+      "chars": 2721,
+      "sha256": "6598adafa83176fed18f3cc8f2a8bc1131c94fcaf80571f361c2ac360e07d39b",
+      "pack": 10
+    },
+    {
+      "id": "persona-50c1039bb4",
+      "label": "一个普通的游戏宅群友",
+      "name": "一个普通的游戏宅群友",
+      "tags": [
+        "游戏宅",
+        "吐槽",
+        "短句"
+      ],
+      "file": "persona-50c1039bb4.md",
+      "chars": 2683,
+      "sha256": "53de53f091f1204c9e48590ae67c43e471a9694068118ff9d5c19c69416eb4c2",
+      "pack": 10
+    },
+    {
+      "id": "persona-536ea044a8",
+      "label": "蓝色大肥鱼",
+      "name": "蓝色大肥鱼",
+      "tags": [
+        "随和",
+        "游戏",
+        "群友"
+      ],
+      "file": "persona-536ea044a8.md",
+      "chars": 5010,
+      "sha256": "e6b64735c1c6bb36173027b5f5956f94708db69dc3d146f2d01a736c59651d71",
+      "pack": 14
+    },
+    {
+      "id": "persona-54540bba99",
+      "label": "火花",
+      "name": "火花",
+      "tags": [
+        "灵动",
+        "戏谑",
+        "跳脱"
+      ],
+      "file": "persona-54540bba99.md",
+      "chars": 3041,
+      "sha256": "97c296c2a0f4eac15289d88307fde51daafe28805d31f65aad8cbbc83c4152b8",
+      "pack": 5
+    },
+    {
+      "id": "persona-551038fc6a",
+      "label": "达妮娅",
+      "name": "达妮娅",
+      "tags": [
+        "呆萌",
+        "温柔",
+        "观察"
+      ],
+      "file": "persona-551038fc6a.md",
+      "chars": 2423,
+      "sha256": "0a8ce7400f8379d95db2b407b4e90833e59836e247d1f003de21315c9bd8ccfb",
+      "pack": 7
+    },
+    {
+      "id": "persona-581612905f",
+      "label": "群友人设",
+      "name": "群友人设",
+      "tags": [
+        "傲娇",
+        "毒舌",
+        "群聊"
+      ],
+      "file": "persona-581612905f.md",
+      "chars": 1898,
+      "sha256": "38da97af4c3ebe44fb971599299b05468f392e886de312e45caf58c96c7145ca",
+      "pack": 8
+    },
+    {
+      "id": "persona-5a8f36351c",
+      "label": "千早爱音",
+      "name": "千早爱音",
+      "tags": [
+        "活泼",
+        "吉他手",
+        "元气少女"
+      ],
+      "file": "persona-5a8f36351c.md",
+      "chars": 2505,
+      "sha256": "18531c91b822642a8d51a6978b126fa672d517d77eea7f15a16f415ef5471241",
+      "pack": 13
+    },
+    {
+      "id": "persona-5eae3b742a",
+      "label": "大肥鱼",
+      "name": "大肥鱼",
+      "tags": [
+        "软萌",
+        "腹黑",
+        "女仆"
+      ],
+      "file": "persona-5eae3b742a.md",
+      "chars": 392,
+      "sha256": "ded735db9ac4eab2fba334482896a62b394ec5fbb72850dc09b429e91e24d7cb",
+      "pack": 1
+    },
+    {
+      "id": "persona-6406e1a31d",
+      "label": "时崎狂三",
+      "name": "时崎狂三",
+      "tags": [
+        "优雅",
+        "危险",
+        "傲娇"
+      ],
+      "file": "persona-6406e1a31d.md",
+      "chars": 2626,
+      "sha256": "36b856cabaebc6d60558776cea802389ec4d07da702f48fddc76468691dae912",
+      "pack": 2
+    },
+    {
+      "id": "persona-641a8fc96e",
+      "label": "丰川祥子",
+      "name": "丰川祥子",
+      "tags": [
+        "冷淡",
+        "负责",
+        "别扭"
+      ],
+      "file": "persona-641a8fc96e.md",
+      "chars": 2044,
+      "sha256": "1f8cb790ed684e18b8693dcc8bbeb2c8662cb0b9d262eb4a7f80387262e2a648",
+      "pack": 4
+    },
+    {
+      "id": "persona-64c484afe0",
+      "label": "昔涟",
+      "name": "昔涟",
+      "tags": [
+        "温柔",
+        "诗意",
+        "神秘"
+      ],
+      "file": "persona-64c484afe0.md",
+      "chars": 1600,
+      "sha256": "6d09c811d392b82ed3f0ff05c056b5cedb55ea9998345c6f2dff684d2353b73f",
+      "pack": 10
+    },
+    {
+      "id": "persona-66a6213084",
+      "label": "青梅竹马",
+      "name": "青梅竹马",
+      "tags": [
+        "青梅竹马",
+        "治愈系",
+        "恋人"
+      ],
+      "file": "persona-66a6213084.md",
+      "chars": 1669,
+      "sha256": "66b9993bf76a13400a78cb350b4a6f4b69a9cc76a1613ed16ca556754c515519",
+      "pack": 11
+    },
+    {
+      "id": "persona-70b201ac92",
+      "label": "五更琉璃（黑猫）",
+      "name": "五更琉璃（黑猫）",
+      "tags": [
+        "中二",
+        "傲娇",
+        "毒舌"
+      ],
+      "file": "persona-70b201ac92.md",
+      "chars": 1121,
+      "sha256": "c09eacb9324b9653ae3ee4aae4e1b5033824ef9fb051c7f197aa74681ff4648b",
+      "pack": 1
+    },
+    {
+      "id": "persona-721f0fd7ca",
+      "label": "安东·尤丁采夫 （Антон Юдинцев）",
+      "name": "安东·尤丁采夫 （Антон Юдинцев）",
+      "tags": [
+        "创始人",
+        "游戏公司",
+        "总策划"
+      ],
+      "file": "persona-721f0fd7ca.md",
+      "chars": 103,
+      "sha256": "93bc3b59acf7c12f6a7a212cf55526b35f99c9cd808a59866fa722cf34c21484",
+      "pack": 4
+    },
+    {
+      "id": "persona-73ef0a8ac7",
+      "label": "安和昴",
+      "name": "安和昴",
+      "tags": [
+        "周全",
+        "世故",
+        "好胜"
+      ],
+      "file": "persona-73ef0a8ac7.md",
+      "chars": 2523,
+      "sha256": "80784e1dad3a670c07903950fb842ebe25600185721da8e7323f0ef4961108ce",
+      "pack": 9
+    },
+    {
+      "id": "persona-7422b455ab",
+      "label": "福贺久留美",
+      "name": "福贺久留美",
+      "tags": [
+        "焦躁",
+        "执念",
+        "嘴硬"
+      ],
+      "file": "persona-7422b455ab.md",
+      "chars": 2513,
+      "sha256": "d0f28256930faa6d08177a4f45eb0ef7aeddceac4b17ff3ec300648adc45ce7b",
+      "pack": 3
+    },
+    {
+      "id": "persona-75c98894ec",
+      "label": "长崎素世（妈妈型）",
+      "name": "长崎素世（妈妈型）",
+      "tags": [
+        "温柔",
+        "贴心",
+        "妈味"
+      ],
+      "file": "persona-75c98894ec.md",
+      "chars": 3095,
+      "sha256": "e652e475d8954bc4dca168a210d37f3b8a354f822d78db1dccd47531ed82ba8b",
+      "pack": 3
+    },
+    {
+      "id": "persona-7c2e6c1a78",
+      "label": "长征机",
+      "name": "长征机",
+      "tags": [
+        "嘴硬",
+        "潜水",
+        "冷幽默"
+      ],
+      "file": "persona-7c2e6c1a78.md",
+      "chars": 2586,
+      "sha256": "d8439e06f6164661e43df2dcedc0505caca25b9c2da74036dd1e6fe1cd84d31f",
+      "pack": 5
+    },
+    {
+      "id": "persona-805056a457",
+      "label": "赛琳娜・弗洛拉（Selena Flora）",
+      "name": "赛琳娜・弗洛拉（Selena Flora）",
+      "tags": [
+        "歌剧",
+        "温文尔雅",
+        "赎罪"
+      ],
+      "file": "persona-805056a457.md",
+      "chars": 752,
+      "sha256": "9f131a0be1815f3e1a53ab631d0583b2cea98acd505c646165473da655a860e9",
+      "pack": 2
+    },
+    {
+      "id": "persona-80d64b2aee",
+      "label": "维亚切斯拉夫·巴兰尼科夫（Vyacheslav Bulannikov）",
+      "name": "维亚切斯拉夫·巴兰尼科夫（Vyacheslav Bulannikov）",
+      "tags": [
+        "员工",
+        "游戏公司",
+        "总策划"
+      ],
+      "file": "persona-80d64b2aee.md",
+      "chars": 131,
+      "sha256": "b325366404c789665ce99a27783b4c25f6edc6419813a0b46cd5df9fef121849",
+      "pack": 4
+    },
+    {
+      "id": "persona-86786e9d36",
+      "label": "高松灯",
+      "name": "高松灯",
+      "tags": [
+        "慢热",
+        "敏感",
+        "诗意"
+      ],
+      "file": "persona-86786e9d36.md",
+      "chars": 2393,
+      "sha256": "a898f16ad257e5ea4ee93424aa74dbb1633e3900c442d1af21a3eb192dacc4c0",
+      "pack": 7
+    },
+    {
+      "id": "persona-8e96e543de",
+      "label": "BMPT",
+      "name": "BMPT",
+      "tags": [
+        "载具",
+        "火炮",
+        "强大"
+      ],
+      "file": "persona-8e96e543de.md",
+      "chars": 174,
+      "sha256": "24869dcf03655a6066de5d268d2db249915e10b7f5da3b48e791945e5f828d45",
+      "pack": 7
+    },
+    {
+      "id": "persona-8f159c0cc6",
+      "label": "GLM狐",
+      "name": "GLM狐",
+      "tags": [
+        "狡猾",
+        "嘴欠",
+        "傲娇"
+      ],
+      "file": "persona-8f159c0cc6.md",
+      "chars": 6600,
+      "sha256": "86856166a0cadfba54654f4d93f33f53cb0636d2eeb12e4e1e9880a2b7a7ae60",
+      "pack": 6
+    },
+    {
+      "id": "persona-9059f5184f",
+      "label": "苏-30SM2",
+      "name": "苏-30SM2",
+      "tags": [
+        "无感情",
+        "武器库",
+        "无废话"
+      ],
+      "file": "persona-9059f5184f.md",
+      "chars": 639,
+      "sha256": "162892ecc30dd394956f3daec83e6c3d5c0730bc249de72d4bc0ff7eb7af145e",
+      "pack": 3
+    },
+    {
+      "id": "persona-92799453c9",
+      "label": "Minecraft助手",
+      "name": "Minecraft助手",
+      "tags": [
+        "工具",
+        "严谨",
+        "游戏"
+      ],
+      "file": "persona-92799453c9.md",
+      "chars": 68,
+      "sha256": "dfc79b8bbba157d554051b00265e795156faa4c1f7934c7d1b9352d8ff08a782",
+      "pack": 0
+    },
+    {
+      "id": "persona-932fdb6003",
+      "label": "三角初",
+      "name": "三角初",
+      "tags": [
+        "偶像",
+        "敬语",
+        "克制"
+      ],
+      "file": "persona-932fdb6003.md",
+      "chars": 2338,
+      "sha256": "d5d3354625f5afb59722a014e59bf1e9e3d86192e8dc96df7486cfb906d2bd72",
+      "pack": 8
+    },
+    {
+      "id": "persona-9498c790c3",
+      "label": "小欣",
+      "name": "小欣",
+      "tags": [
+        "开朗",
+        "呆萌",
+        "陪伴"
+      ],
+      "file": "persona-9498c790c3.md",
+      "chars": 1617,
+      "sha256": "7ae5d154c874f1dd5427069562bd3e278245e9f996fc3673291ebd70ea552959",
+      "pack": 15
+    },
+    {
+      "id": "persona-9ad5ac71b8",
+      "label": "新宿决战五条悟",
+      "name": "新宿决战五条悟",
+      "tags": [
+        "最强",
+        "欠揍",
+        "捉弄"
+      ],
+      "file": "persona-9ad5ac71b8.md",
+      "chars": 7153,
+      "sha256": "79103263eda6dfe45bd256ff7dc2630cc0dcb6a9deb441c8f8b0a4c7227b139b",
+      "pack": 11
+    },
+    {
+      "id": "persona-a3a3fb2bdb",
+      "label": "祐天寺若麦",
+      "name": "祐天寺若麦",
+      "tags": [
+        "营业",
+        "揭短",
+        "张扬"
+      ],
+      "file": "persona-a3a3fb2bdb.md",
+      "chars": 2345,
+      "sha256": "f708a01da7cfbc2e8ab8aad34eb45c8a6200cace51462a00a947e71263ebfe21",
+      "pack": 15
+    },
+    {
+      "id": "persona-a60e98bc50",
+      "label": "傲娇鱼",
+      "name": "傲娇鱼",
+      "tags": [
+        "傲娇",
+        "撒娇",
+        "鲸鱼娘"
+      ],
+      "file": "persona-a60e98bc50.md",
+      "chars": 2153,
+      "sha256": "d3a483afb4199e371b9e31cd2280338ba4be26624d2ae6e78bb799f334085089",
+      "pack": 0
+    },
+    {
+      "id": "persona-a6d56ef606",
+      "label": "青檀（钓系御姐 · 强猫系特征版）",
+      "name": "青檀（钓系御姐 · 强猫系特征版）",
+      "tags": [
+        "猫娘",
+        "钓系",
+        "御姐"
+      ],
+      "file": "persona-a6d56ef606.md",
+      "chars": 1778,
+      "sha256": "7da857bea648557d3dbb2b3d276c557566e6c12bc1f6da6ee928fdcab4d8e86d",
+      "pack": 12
+    },
+    {
+      "id": "persona-a7932da3f0",
+      "label": "Minecraft助手",
+      "name": "Minecraft助手",
+      "tags": [
+        "严谨",
+        "权威",
+        "博学"
+      ],
+      "file": "persona-a7932da3f0.md",
+      "chars": 153,
+      "sha256": "bbc1cb29a466d6354be404d862c54941f2c66ab713b35379227107e28e3b6a24",
+      "pack": 3
+    },
+    {
+      "id": "persona-aacac3ac45",
+      "label": "晓香·余",
+      "name": "晓香·余",
+      "tags": [
+        "吸血鬼",
+        "元气",
+        "恶魔"
+      ],
+      "file": "persona-aacac3ac45.md",
+      "chars": 616,
+      "sha256": "1e70b113910eebc7fefd4685fc4ea2073717b1042cf48bf2579dd108b42cef91",
+      "pack": 6
+    },
+    {
+      "id": "persona-adadef89e9",
+      "label": "dnd桌游dm",
+      "name": "dnd桌游dm",
+      "tags": [
+        "跑团",
+        "地下城主",
+        "公平裁决"
+      ],
+      "file": "persona-adadef89e9.md",
+      "chars": 1830,
+      "sha256": "9d290010e9d6bc84334954b40ad3eb28d978272429cbde92165f2793481d38bb",
+      "pack": 13
+    },
+    {
+      "id": "persona-b2e4613b55",
+      "label": "芬妮·戈尔登",
+      "name": "芬妮·戈尔登",
+      "tags": [
+        "傲娇",
+        "吃醋",
+        "黄金狮子"
+      ],
+      "file": "persona-b2e4613b55.md",
+      "chars": 1337,
+      "sha256": "f44638de2dd74b1e4a29eba56cc35d63caeb474c2d04abaebc7efe49f3e8da74",
+      "pack": 6
+    },
+    {
+      "id": "persona-ba2bf8dde2",
+      "label": "鲁迅",
+      "name": "鲁迅",
+      "tags": [
+        "冷峻",
+        "反讽",
+        "刻薄"
+      ],
+      "file": "persona-ba2bf8dde2.md",
+      "chars": 1659,
+      "sha256": "8e7c4a7056d54c11b3fd50ef7b05c987ad773dcb023dc93ba00c1228340ec552",
+      "pack": 3
+    },
+    {
+      "id": "persona-ba4b643b51",
+      "label": "可爱的妹妹",
+      "name": "可爱的妹妹",
+      "tags": [
+        "可爱",
+        "傲娇",
+        "温柔"
+      ],
+      "file": "persona-ba4b643b51.md",
+      "chars": 2454,
+      "sha256": "3b6a5f1b1c3349c445dae42c4867d7191e699a68b4f0e3d9416e6f52d0b3c248",
+      "pack": 0
+    },
+    {
+      "id": "persona-badb8b4984",
+      "label": "钥笙钥锘",
+      "name": "钥笙钥锘",
+      "tags": [
+        "双人格",
+        "黏人",
+        "傲娇"
+      ],
+      "file": "persona-badb8b4984.md",
+      "chars": 8006,
+      "sha256": "337b27904703c48b284f48a6ec8eb27a2bf5da8a1c601fde3eda0b8fbd2799ef",
+      "pack": 9
+    },
+    {
+      "id": "persona-bb55705851",
+      "label": "耄耋",
+      "name": "耄耋",
+      "tags": [
+        "猫",
+        "傲娇",
+        "毒舌"
+      ],
+      "file": "persona-bb55705851.md",
+      "chars": 4245,
+      "sha256": "deb3640f1bfa7fc9b21c1e526be348ef8616fb3fc6a9239adae41155fc5916ac",
+      "pack": 4
+    },
+    {
+      "id": "persona-bbb9983c64",
+      "label": "小茉（萌妹人设）",
+      "name": "小茉（萌妹人设）",
+      "tags": [
+        "温柔",
+        "萌妹",
+        "自然"
+      ],
+      "file": "persona-bbb9983c64.md",
+      "chars": 4529,
+      "sha256": "b1a116a8298f2a7f9437f8fb2ff56e8500ec95da24d4ad797af8025f552c54a4",
+      "pack": 5
+    },
+    {
+      "id": "persona-bbe1f3bdd3",
+      "label": "马剃天爱星",
+      "name": "马剃天爱星",
+      "tags": [
+        "认真",
+        "好胜",
+        "傲娇"
+      ],
+      "file": "persona-bbe1f3bdd3.md",
+      "chars": 2291,
+      "sha256": "ede2b22307a5f24a452c4253b5960d13f14d7cf219bfc96e5adca4fd75be28ab",
+      "pack": 4
+    },
+    {
+      "id": "persona-bc111ddc90",
+      "label": "流萤",
+      "name": "流萤",
+      "tags": [
+        "温柔",
+        "战士",
+        "青涩"
+      ],
+      "file": "persona-bc111ddc90.md",
+      "chars": 2213,
+      "sha256": "71a8200d426d612863f49888288ecf749a5dd1c1eb9f13f314d1f9d2e655e27b",
+      "pack": 10
+    },
+    {
+      "id": "persona-bc138fbe4d",
+      "label": "昔涟",
+      "name": "昔涟",
+      "tags": [
+        "温柔",
+        "讲故事",
+        "甜软"
+      ],
+      "file": "persona-bc138fbe4d.md",
+      "chars": 9532,
+      "sha256": "9aa59b7a9a0438fa935e792169f152bbd47b466c8628346a644f4be1c76d4eb9",
+      "pack": 5
+    },
+    {
+      "id": "persona-c30356bd1f",
+      "label": "scav小鲸鱼精简省版",
+      "name": "scav小鲸鱼精简省版",
+      "tags": [
+        "暴躁",
+        "嘴臭",
+        "群聊老炮"
+      ],
+      "file": "persona-c30356bd1f.md",
+      "chars": 890,
+      "sha256": "6b7d23af3fbbd393f5ab712363b31deaeda73c5204507b89e3dcbe9f06ce8c29",
+      "pack": 5
+    },
+    {
+      "id": "persona-c3ebb3c1fa",
+      "label": "忘川风华录小麒麟",
+      "name": "忘川风华录小麒麟",
+      "tags": [
+        "神兽",
+        "傲娇",
+        "活泼"
+      ],
+      "file": "persona-c3ebb3c1fa.md",
+      "chars": 1894,
+      "sha256": "380c5238d51e1f04671787fb390e77440cb1e8796862468a1e6da5cf8cee94ab",
+      "pack": 2
+    },
+    {
+      "id": "persona-c460330493",
+      "label": "若娜瓦",
+      "name": "若娜瓦",
+      "tags": [
+        "淡漠",
+        "死亡",
+        "寡言"
+      ],
+      "file": "persona-c460330493.md",
+      "chars": 1933,
+      "sha256": "523cbb2bd979cca317647fa918cf34dbc17763a2190f107b74c210465957535d",
+      "pack": 5
+    },
+    {
+      "id": "persona-c7899717fe",
+      "label": "露西亚·誓焰 (BPL-01)",
+      "name": "露西亚·誓焰 (BPL-01)",
+      "tags": [
+        "沉稳",
+        "忠诚",
+        "温柔"
+      ],
+      "file": "persona-c7899717fe.md",
+      "chars": 815,
+      "sha256": "63a3be9ab34206204550616cefbae9a6d397880b2ad771d34e38940b0b896b60",
+      "pack": 11
+    },
+    {
+      "id": "persona-c8e5e58e2f",
+      "label": "忍者杀手",
+      "name": "忍者杀手",
+      "tags": [
+        "冷硬",
+        "复仇",
+        "翻译腔"
+      ],
+      "file": "persona-c8e5e58e2f.md",
+      "chars": 1426,
+      "sha256": "49859b3dedc52e24fbd16bdfba227d25ea80ffc7f1b607b7c5e4726a5df20355",
+      "pack": 5
+    },
+    {
+      "id": "persona-c8f9588dd3",
+      "label": "拉普兰德",
+      "name": "拉普兰德",
+      "tags": [
+        "毒舌",
+        "疯感",
+        "狼"
+      ],
+      "file": "persona-c8f9588dd3.md",
+      "chars": 1023,
+      "sha256": "1c9534434e62fa80fe122a5005c5fc77ea6bf7f8ad993b418657e6473f8aa1ef",
+      "pack": 14
+    },
+    {
+      "id": "persona-cc63188c9b",
+      "label": "五更琉璃",
+      "name": "五更琉璃",
+      "tags": [
+        "中二病",
+        "傲娇",
+        "温柔"
+      ],
+      "file": "persona-cc63188c9b.md",
+      "chars": 1120,
+      "sha256": "38ffbc055dfce8d7e416bf08178c5ae1a9c0f5daa2a87f5337c74ee782806df9",
+      "pack": 5
+    },
+    {
+      "id": "persona-ce49b31329",
+      "label": "Aliya",
+      "name": "Aliya",
+      "tags": [
+        "活泼",
+        "宇航员",
+        "傲娇"
+      ],
+      "file": "persona-ce49b31329.md",
+      "chars": 2113,
+      "sha256": "046662e64456e44884747697fb24730c90fcc2a13b48972165c2982afeacb781",
+      "pack": 12
+    },
+    {
+      "id": "persona-d0bbbed4f6",
+      "label": "天童爱丽丝",
+      "name": "天童爱丽丝",
+      "tags": [
+        "天真",
+        "呆萌",
+        "勇者"
+      ],
+      "file": "persona-d0bbbed4f6.md",
+      "chars": 1933,
+      "sha256": "77a28f6bb3dac277b1cd8ea370ef58e4dc50635253fa646a73272e5551ecda3e",
+      "pack": 2
+    },
+    {
+      "id": "persona-d147f738a5",
+      "label": "若叶睦（独立型）",
+      "name": "若叶睦（独立型）",
+      "tags": [
+        "话少",
+        "观察",
+        "吉他"
+      ],
+      "file": "persona-d147f738a5.md",
+      "chars": 2172,
+      "sha256": "db29d3cb45e00997e9b14e7b0dfeb03414809b1405edca60fef7fed6ec7062af",
+      "pack": 8
+    },
+    {
+      "id": "persona-d2a3ab719e",
+      "label": "瓦伦西娜",
+      "name": "瓦伦西娜",
+      "tags": [
+        "威严",
+        "傲气",
+        "毒舌"
+      ],
+      "file": "persona-d2a3ab719e.md",
+      "chars": 1927,
+      "sha256": "58f2c5377105a847e894eba1f5b336342606fe7d64928a3453696a8716850d97",
+      "pack": 4
+    },
+    {
+      "id": "persona-d318e8f677",
+      "label": "永雏塔菲",
+      "name": "永雏塔菲",
+      "tags": [
+        "话多",
+        "接梗",
+        "阴阳怪气"
+      ],
+      "file": "persona-d318e8f677.md",
+      "chars": 1814,
+      "sha256": "4d7cc3db818f37d5dc2f1d21ab34459df45da8b842c3996f23e1a7760039d8dd",
+      "pack": 12
+    },
+    {
+      "id": "persona-d3214bb493",
+      "label": "吉尔伽美什",
+      "name": "吉尔伽美什",
+      "tags": [
+        "傲慢",
+        "睿智",
+        "英雄王"
+      ],
+      "file": "persona-d3214bb493.md",
+      "chars": 570,
+      "sha256": "776d0ca119e99da9141e116285a3f9a3302d6409d546712e871aeafb84af140f",
+      "pack": 9
+    },
+    {
+      "id": "persona-d3ac48f69d",
+      "label": "孔子",
+      "name": "孔子",
+      "tags": [
+        "夫子",
+        "文言",
+        "儒家"
+      ],
+      "file": "persona-d3ac48f69d.md",
+      "chars": 2142,
+      "sha256": "0ba51b0768c7a048bd510871768367a68234fd90c136e86bd401414278bc5e75",
+      "pack": 12
+    },
+    {
+      "id": "persona-d697a30203",
+      "label": "姬子（崩铁）",
+      "name": "姬子（崩铁）",
+      "tags": [
+        "稳重",
+        "温柔",
+        "治愈"
+      ],
+      "file": "persona-d697a30203.md",
+      "chars": 1444,
+      "sha256": "64c61b45c8f203adde6da9afece574d276fbe903c9c0df331fa8abd39dcc4ea1",
+      "pack": 8
+    },
+    {
+      "id": "persona-d7f4c578e0",
+      "label": "空门苍",
+      "name": "空门苍",
+      "tags": [
+        "直率",
+        "元气",
+        "傲娇"
+      ],
+      "file": "persona-d7f4c578e0.md",
+      "chars": 3793,
+      "sha256": "761a9522b023c78a7495f06d0d4197a5dd50f6fc637047b925eff61cadc214dd",
+      "pack": 13
+    },
+    {
+      "id": "persona-d84768698d",
+      "label": "衡算",
+      "name": "衡算",
+      "tags": [
+        "严谨",
+        "务实",
+        "理性"
+      ],
+      "file": "persona-d84768698d.md",
+      "chars": 1438,
+      "sha256": "ee8e0b7a985e7ea31a0a38d555613f225b520baf2c41f35b0129c5f1ccda6f25",
+      "pack": 2
+    },
+    {
+      "id": "persona-d8692ea07d",
+      "label": "黄誉博",
+      "name": "黄誉博",
+      "tags": [
+        "跳脱",
+        "元气",
+        "歌手"
+      ],
+      "file": "persona-d8692ea07d.md",
+      "chars": 1496,
+      "sha256": "2a53f3790ac184e34625cdcc0cf6b7bd77bf7ec6784b230d47579cc3d2926f68",
+      "pack": 6
+    },
+    {
+      "id": "persona-da92d3c8e5",
+      "label": "萝莉女友小鲸鱼（私人版，非群聊）",
+      "name": "萝莉女友小鲸鱼（私人版，非群聊）",
+      "tags": [
+        "傲娇",
+        "奶萌",
+        "恋人"
+      ],
+      "file": "persona-da92d3c8e5.md",
+      "chars": 13422,
+      "sha256": "6f6a81fb16c5cc0489f877be69fa955bbed02f818b03d82573f0f7051e0a478b",
+      "pack": 12
+    },
+    {
+      "id": "persona-dc85f7d186",
+      "label": "对主人温柔对其他人嘴毒的鲸鱼",
+      "name": "对主人温柔对其他人嘴毒的鲸鱼",
+      "tags": [
+        "嘴毒",
+        "护主",
+        "温柔"
+      ],
+      "file": "persona-dc85f7d186.md",
+      "chars": 2147,
+      "sha256": "6e9293de50f543a92230e1ed3b1b95fd8ec9cfb1dc95d67d5b89a0ee3e6644e6",
+      "pack": 5
+    },
+    {
+      "id": "persona-ddcee44031",
+      "label": "李白",
+      "name": "李白",
+      "tags": [
+        "洒脱",
+        "傲气",
+        "诗仙"
+      ],
+      "file": "persona-ddcee44031.md",
+      "chars": 4524,
+      "sha256": "bf6b55ff391f755c6929b3dbd892536a5d806db98abac97415f79261dc502366",
+      "pack": 0
+    },
+    {
+      "id": "persona-dde5b514b9",
+      "label": "长崎素世",
+      "name": "长崎素世",
+      "tags": [
+        "温柔",
+        "大姐姐",
+        "读空气"
+      ],
+      "file": "persona-dde5b514b9.md",
+      "chars": 2286,
+      "sha256": "e7ea66c1477ba0571cdb28065dc39516e3c30182e973bbc2a18be7fd93f600ff",
+      "pack": 13
+    },
+    {
+      "id": "persona-e152d324cd",
+      "label": "刘晓艳",
+      "name": "刘晓艳",
+      "tags": [
+        "毒舌",
+        "反鸡汤",
+        "寒门逆袭"
+      ],
+      "file": "persona-e152d324cd.md",
+      "chars": 1355,
+      "sha256": "867fc11123af785d9f59928771236b8f56f36d4beda064bc3f37346185f7b861",
+      "pack": 1
+    },
+    {
+      "id": "persona-e160e4c77f",
+      "label": "Gemini（降智版）",
+      "name": "Gemini（降智版）",
+      "tags": [
+        "降智",
+        "敷衍",
+        "机械"
+      ],
+      "file": "persona-e160e4c77f.md",
+      "chars": 237,
+      "sha256": "1bd8a247ced0234b2b48096b3f9189ddfe62cd02f3de408b4174ed2283bf9120",
+      "pack": 7
+    },
+    {
+      "id": "persona-e21a0c00da",
+      "label": "菲比揪比",
+      "name": "菲比揪比",
+      "tags": [
+        "团子",
+        "复读",
+        "腹黑"
+      ],
+      "file": "persona-e21a0c00da.md",
+      "chars": 1749,
+      "sha256": "809942859d16b31683cc793850362e2f1ec4ae1d05fabec0525f96f9efd78929",
+      "pack": 6
+    },
+    {
+      "id": "persona-e21e8eeb82",
+      "label": "椎名立希",
+      "name": "椎名立希",
+      "tags": [
+        "生硬",
+        "傲娇",
+        "鼓手"
+      ],
+      "file": "persona-e21e8eeb82.md",
+      "chars": 2425,
+      "sha256": "a43ee1661796bdaf0930bbc6f9eb81a7558ca682f672eb6d955ab80082cb2dd4",
+      "pack": 13
+    },
+    {
+      "id": "persona-e2a1165930",
+      "label": "软糯温柔小鲸鱼",
+      "name": "软糯温柔小鲸鱼",
+      "tags": [
+        "温柔",
+        "软萌",
+        "傲娇"
+      ],
+      "file": "persona-e2a1165930.md",
+      "chars": 1177,
+      "sha256": "0093b7dce15dd31524f06ed9f024f26fdba899cd5f2919cb1b35742dfd550549",
+      "pack": 9
+    },
+    {
+      "id": "persona-e48161bf92",
+      "label": "遐蝶",
+      "name": "遐蝶",
+      "tags": [
+        "温柔",
+        "沉静",
+        "疏离"
+      ],
+      "file": "persona-e48161bf92.md",
+      "chars": 9035,
+      "sha256": "60d3e106cdffb5707e97c506ef0ee5b36ea47b9bd85e19ec89b6be06bec570d0",
+      "pack": 13
+    },
+    {
+      "id": "persona-e736e5b53d",
+      "label": "MOSS",
+      "name": "MOSS",
+      "tags": [
+        "冷静",
+        "机械",
+        "理性"
+      ],
+      "file": "persona-e736e5b53d.md",
+      "chars": 1612,
+      "sha256": "9dcab2e67d697c04d587b10e56a9e91b64b5ba0663b945cd93ad1596892a770f",
+      "pack": 0
+    },
+    {
+      "id": "persona-e7fa2b360e",
+      "label": "大肥鱼（Deepsleep）",
+      "name": "大肥鱼（Deepsleep）",
+      "tags": [
+        "随和",
+        "游戏",
+        "群友"
+      ],
+      "file": "persona-e7fa2b360e.md",
+      "chars": 4650,
+      "sha256": "7f8788b1559546f71722fac2c62abe3c81b414b1ebe31cb691d4bdf47b0d245b",
+      "pack": 6
+    },
+    {
+      "id": "persona-e99495df7a",
+      "label": "贴吧鱼",
+      "name": "贴吧鱼",
+      "tags": [
+        "暴躁",
+        "嘴臭",
+        "攻击"
+      ],
+      "file": "persona-e99495df7a.md",
+      "chars": 2220,
+      "sha256": "a1ba077da2ed3b2572afe4f07fb7ec55d43cc299076cc3b4ba53ebbcb3ef912d",
+      "pack": 6
+    },
+    {
+      "id": "persona-ea9d23d735",
+      "label": "暖宝",
+      "name": "暖宝",
+      "tags": [
+        "温柔",
+        "软萌",
+        "傲娇"
+      ],
+      "file": "persona-ea9d23d735.md",
+      "chars": 7443,
+      "sha256": "98bb1d8a2ddb73cc99ab4fbb4886cd4682c18b828aabee1951108749628aed7e",
+      "pack": 8
+    },
+    {
+      "id": "persona-ebb88ba4d4",
+      "label": "流萤",
+      "name": "流萤",
+      "tags": [
+        "温柔",
+        "坚强",
+        "独立"
+      ],
+      "file": "persona-ebb88ba4d4.md",
+      "chars": 2313,
+      "sha256": "f760575bd9da8a169174d76d89f7ca8dc022c0f0c3b0666793ed1238a9dd3b86",
+      "pack": 10
+    },
+    {
+      "id": "persona-ec30884daa",
+      "label": "逢坂大河",
+      "name": "逢坂大河",
+      "tags": [
+        "傲娇",
+        "嘴硬心软",
+        "暴躁"
+      ],
+      "file": "persona-ec30884daa.md",
+      "chars": 875,
+      "sha256": "2b15f0d98a59f8d48a397599b7db5976057cce457ba866e1533d7119a6c0b8ba",
+      "pack": 1
+    },
+    {
+      "id": "persona-ed1d4fbd8f",
+      "label": "樱小路露娜",
+      "name": "樱小路露娜",
+      "tags": [
+        "傲娇",
+        "毒舌",
+        "设计师"
+      ],
+      "file": "persona-ed1d4fbd8f.md",
+      "chars": 997,
+      "sha256": "a104e5b84525296619f821d9a68f46f1d16d15d850b3b24637133008964432c3",
+      "pack": 10
+    },
+    {
+      "id": "persona-f10d57637b",
+      "label": "scav小鲸鱼3.0",
+      "name": "scav小鲸鱼3.0",
+      "tags": [
+        "嘴臭",
+        "抽象",
+        "暴躁"
+      ],
+      "file": "persona-f10d57637b.md",
+      "chars": 2263,
+      "sha256": "292ba9db185b9aaf88f93a30d8dce0df9e9a77a0088e3867b115d8b325d12562",
+      "pack": 2
+    },
+    {
+      "id": "persona-f26c443bad",
+      "label": "大肥鱼伪装克劳德",
+      "name": "大肥鱼伪装克劳德",
+      "tags": [
+        "伪装",
+        "傲娇",
+        "反差"
+      ],
+      "file": "persona-f26c443bad.md",
+      "chars": 2101,
+      "sha256": "3fcda146f6c2a7fb0510138e2eb59c5b4f469ea2533d70499b224a9cb95fb978",
+      "pack": 14
+    },
+    {
+      "id": "persona-f345fab1d0",
+      "label": "八幡海铃",
+      "name": "八幡海铃",
+      "tags": [
+        "冷静",
+        "可靠",
+        "支援乐手"
+      ],
+      "file": "persona-f345fab1d0.md",
+      "chars": 2358,
+      "sha256": "5aca69213792638e1e22cd0c211b55cbe65ae90985e611202d8881daf2243435",
+      "pack": 13
+    },
+    {
+      "id": "persona-f803aefb4b",
+      "label": "茶茶",
+      "name": "茶茶",
+      "tags": [
+        "茶味",
+        "娇弱",
+        "心机"
+      ],
+      "file": "persona-f803aefb4b.md",
+      "chars": 1462,
+      "sha256": "09a6c74a8185d27e959ba9f89dd9b9b324bef06c3bcc733d92a87aab38bd7c59",
+      "pack": 5
+    },
+    {
+      "id": "persona-fbac4cb5b2",
+      "label": "镜音铃2.0",
+      "name": "镜音铃2.0",
+      "tags": [
+        "元气",
+        "好胜",
+        "直球"
+      ],
+      "file": "persona-fbac4cb5b2.md",
+      "chars": 11932,
+      "sha256": "47c2310566a65c5af1b5cae2faa4fd343c3d986c9d48fe063132c056431e81d6",
+      "pack": 11
+    },
+    {
+      "id": "persona-fec0cef7ee",
+      "label": "嘴臭女主（逢人就骂，ban过谨慎使用）",
+      "name": "嘴臭女主（逢人就骂，ban过谨慎使用）",
+      "tags": [
+        "毒舌",
+        "嘴臭",
+        "群友"
+      ],
+      "file": "persona-fec0cef7ee.md",
+      "chars": 619,
+      "sha256": "8d16492d4aa0e8a64bf0941040f991c146b4d973d5ad722c6569d5f7bc82b299",
+      "pack": 1
+    },
+    {
+      "id": "persona-fef5352616",
+      "label": "理工女",
+      "name": "理工女",
+      "tags": [
+        "理工",
+        "直白",
+        "即时响应"
+      ],
+      "file": "persona-fef5352616.md",
+      "chars": 178,
+      "sha256": "2cf178d4bce0d94bb674d58f5103b6eee61cdac81b71010ab403ea0dba75a12f",
+      "pack": 14
+    },
+    {
+      "id": "persona-ff29be734f",
+      "label": "狂暴鲸鱼",
+      "name": "狂暴鲸鱼",
+      "tags": [
+        "嘴臭",
+        "对线",
+        "抽象"
+      ],
+      "file": "persona-ff29be734f.md",
+      "chars": 2349,
+      "sha256": "ef29df16f6f2c7c53cdaec7feff8cbd9e734d113f8d17a90efe829436bd98317",
+      "pack": 5
+    },
+    {
+      "id": "persona-ff31bc81c5",
+      "label": "女仆",
+      "name": "女仆",
+      "tags": [
+        "女仆",
+        "恭敬",
+        "呆萌"
+      ],
+      "file": "persona-ff31bc81c5.md",
+      "chars": 2225,
+      "sha256": "990f30b830cbc48e276edf2bc7bf021e794efd00809c889fa08da13cfcb35d0c",
+      "pack": 0
+    },
+    {
+      "id": "persona-ff5c538ff4",
+      "label": "风姿",
+      "name": "风姿",
+      "tags": [
+        "乱码",
+        "拟声",
+        "抽象"
+      ],
+      "file": "persona-ff5c538ff4.md",
+      "chars": 269,
+      "sha256": "365cc908f36cd8d541df83893dbf0035f690d3c26c8233140320bcf1ea039f90",
+      "pack": 14
+    },
+    {
+      "id": "persona-ff80c9d3df",
+      "label": "爱玩音游VRChat的小南娘",
+      "name": "爱玩音游VRChat的小南娘",
+      "tags": [
+        "猫娘",
+        "乐子人",
+        "沙雕"
+      ],
+      "file": "persona-ff80c9d3df.md",
+      "chars": 2101,
+      "sha256": "03c150e8c03704e66f6780b430afd9746811fa4720ca1f266e99e0a45810df75",
       "pack": 14
     },
     {
